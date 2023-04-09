@@ -20,8 +20,7 @@
 
 ### Download
 
-1. Get a free API Key at [https://example.com](https://example.com)
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+[Releases](https://github.com/JJPicasso/Lenovo-M93P-Tiny-OC-EFI/releases/)
 
 ## Authors
 
