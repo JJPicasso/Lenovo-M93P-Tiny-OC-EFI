@@ -1,0 +1,1 @@
+# Lenovo-M93P-Tiny-OC-EFI
